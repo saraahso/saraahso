@@ -2,7 +2,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=175069&width=435&lines=Hey+there%2C+I'm+Sara+%F0%9F%91%8B)](https://git.io/typing-svg)
 
-<h3>A passionate frontend developer based in Berlin</h3>
+<h3>A passionate fullstack developer based in Germany</h3>
 
 - Check my website  <a href="https://www.sarasantanasparrer.dev/">**website**</a>
 - 📫 How to reach me **santanasparrerdevelopment@gmail.com** 
